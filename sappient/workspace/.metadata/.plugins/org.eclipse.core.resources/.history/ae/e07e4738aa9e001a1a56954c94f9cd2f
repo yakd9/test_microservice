@@ -1,0 +1,8 @@
+feature: Find the hottest repositories created in the last week
+
+  Scenario: Get a random quote
+    Given url microserviceUrl
+    And path '/quotes/random'
+    When method GET
+    Then status 200
+    And match header Content-Type contains 'application/json'

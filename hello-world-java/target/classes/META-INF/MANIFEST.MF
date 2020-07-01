@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-world-java
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: niku
+Implementation-Vendor-Id: com.rest.webservices
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hello-world-java
+Created-By: Maven Integration for Eclipse
+
